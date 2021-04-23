@@ -13,5 +13,6 @@ For a `BlobTrigger` to work, you provide a path which dictates where the blobs a
 ## Contact
 
 Sami Alashabi
+
 Project Link: [https://github.com/sami12rom/Azure_Function](https://github.com/sami12rom/Azure_Function)
 
